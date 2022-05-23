@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-# first_commit
+# The repo is to store home exercises for the course https://stepik.org/course/575
